@@ -149,7 +149,7 @@ function hide() {
       x.style.display = "none";
     }
   }
-// TODO: show leave parking only if the user is logged in
+
 
 document.getElementById('leave-parking').addEventListener('click', function () {
     
